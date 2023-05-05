@@ -1,0 +1,27 @@
+.red{ 
+    transform: translate(-50px,188px) rotate(-90deg);
+}
+
+.green{
+    transform: translate(-87px,300px) skew(-45deg, 0deg);
+}
+
+.blue{
+    transform: translate(-50px,113px);
+}
+
+.yellow{
+    transform: translate(-50px,-38px) rotate(180deg);
+}
+
+.purple{
+    transform: translate(26px,300px) rotate(180deg);
+}
+
+.brown{
+    transform: translate(-64px,-187px) rotate(45deg);
+}
+
+.orange{
+    transform: translate(-11px,-110px) rotate(90deg);
+ }
